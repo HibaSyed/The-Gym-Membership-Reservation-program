@@ -1,0 +1,8 @@
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\obj\Debug\Hiba_Test1.csproj.AssemblyReference.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\obj\Debug\Hiba_Test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\obj\Debug\Hiba_Test1.csproj.CoreCompileInputs.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\bin\Debug\Hiba_Test1.exe.config
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\bin\Debug\Hiba_Test1.exe
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\bin\Debug\Hiba_Test1.pdb
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\obj\Debug\Hiba_Test1.exe
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_Test1\Hiba_Test1\obj\Debug\Hiba_Test1.pdb
